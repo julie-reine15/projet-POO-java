@@ -1,24 +1,24 @@
-# DESCRIPTION GÉNÉRALE DU PROJET
+## DESCRIPTION GÉNÉRALE DU PROJET
 
-CE PROJET A ÉTÉ REALISÉ PAR JULIE BAUNÉ ET MARINA SEGHIER, DANS LE CADRE DU COURS PROGRAMMATION ORIENTÉE OBJET EN JAVA, DISPENSÉ PAR MONSIEUR CHRISTIAN JEAN, EN MASTER 2 DU PARCOURS INGÉNIERIE MULTILINGUE DE L'INALCO, ANNÉE 2022-2023.
+Ce projet a été réalisé par Julie Bauné & Marina Seghier, dans le cadre du cours de Programmation Orientée Objet en JAVA, dispensé par Mr. Christian Jean, en Master 2 du parcours Ingénieurie Multilingue de l'INALCO année 2022 - 2023
 
-CE COURS AVAIT POUR BUT DE CRÉER UNE APPLICATION QUI PERMET DE RÉPONDRE AUX BESOINS SUIVANTS :
-- S'EXERCER AUX LANGUES ORIENTALES ET NON ORIENTALES
-- PERMETTRE AUX PROFESSEURS D'Y ENREGISTRER LEURS EXERCICES
-- DE PERMETTRE AUX ÉLÈVES DE FAIRE LES EXERCICES PROPOSÉS SELON LEURS NIVEAUX
-- DE CORRIGER AUTOMATIQUEMENT L'EXERCICE PROPOSÉ
+L'objectif était de créer une application qui permet de répondre aux besoins suivants :
+- s'exercer aux langues orientales et non-orientales
+- permettre aux professeurs d'y enregistrer leurs exercices
+- de permettre aux élèves de faire les exercices proposés selon leurs niveaux
+- de corriger automatiquement l'exercice proposé
 
 ***********************
 
-# INSTRUCTIONS D'UTILISATION
+## INSTRUCTIONS D'UTILISATION
 
-POUR LANCER L'APPLICATION :
+Pour lancer le programme :
 
-- SE PLACER DANS LE FICHIER SRC DU PROJET
-- EXÉCUTER LA LIGNE DE COMMANDE SUIVANTE POUR COMPILER LES FICHIERS JAVA : 
-javac -classpath ../opencsv-5.7.1.jar:. inalco/projet_application/*.java
-- EXECUTER LA LIGNE DE COMMANDE SUIVANTE POUR LANCER LE PROGRAMME :
-java -classpath ../opencsv-5.7.1.jar:. inalco.projet_application.Application
+- se placer dans le dossier src du projet
+- exécuter la ligne de commande suivant pour compiler les fichiers JAVA : 
+  javac -classpath ../opencsv-5.7.1.jar:. inalco/projet_application/*.java
+ - exécuter la ligne de commande suivant pour lancer le programme :
+  java -classpath ../opencsv-5.7.1.jar:. inalco.projet_application.Application
 
 ***********************
 
