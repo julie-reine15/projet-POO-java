@@ -2,7 +2,7 @@
 
 Ce projet a été réalisé par Julie Bauné & Marina Seghier, dans le cadre du cours de Programmation Orientée Objet en JAVA, dispensé par Mr. Christian Jean, en Master 2 du parcours Ingénieurie Multilingue de l'INALCO année 2022 - 2023
 
-L'objectif était de créer une application qui permet de répondre aux besoins suivants :
+L'objectif de ce projet est de créer une application permettant de répondre aux besoins suivants :
 - s'exercer aux langues orientales et non-orientales
 - permettre aux professeurs d'y enregistrer leurs exercices
 - de permettre aux élèves de faire les exercices proposés selon leurs niveaux
@@ -21,5 +21,3 @@ Pour lancer le programme :
   java -classpath ../opencsv-5.7.1.jar:. inalco.projet_application.Application
 
 ***********************
-
-BONNE UTILISATION !
